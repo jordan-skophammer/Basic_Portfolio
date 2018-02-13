@@ -1,0 +1,40 @@
+body {
+	background-image: url(../images/dust_scratches.png);
+}
+
+.container {
+	width: 650px;
+	background-color: grey;
+}
+
+.aboutpic {
+	width: 280px;
+}
+
+.social {
+	width: 270px;
+	background-color: grey;
+}
+
+.github {
+	height: 50px;
+	width: 50px;
+}
+
+.linkedin {
+	height: 50px;
+	width: 50px;
+}
+
+.stackoverflow {
+	height: 50px;
+	width: 50px;
+}
+
+.footerband {
+
+}
+
+footer {
+	
+}
